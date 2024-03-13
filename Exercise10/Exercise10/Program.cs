@@ -36,7 +36,7 @@
                 Console.WriteLine("4 - Game");
                 Console.WriteLine("**************");
                 Console.WriteLine();
-                Console.WriteLine("(THESE ARENT REAL SILLY");
+                Console.WriteLine("(THESE ARENT REAL SILLY)");
             }
             if (numberpicked == 4)
             {
@@ -86,7 +86,7 @@
                     Console.WriteLine("4 - Game");
                     Console.WriteLine("**************");
                     Console.WriteLine();
-                    Console.WriteLine("(THESE ARENT REAL SILLY");
+                    Console.WriteLine("(THESE ARENT REAL SILLY)");
                 }
                 if (numberpicked == 4)
                 {
